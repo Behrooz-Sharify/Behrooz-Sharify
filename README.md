@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Behrooz-Sharify
 - 👀 I’m interested in Software Engineering. 
-- 🌱 I’m currently doing my M.Sc Computer Science and beside that learning the python programming language in my free time.
+- 🌱 I have done my M.Sc in Computer Science and beside that learning the python programming language in my free time.
 - 💞️ I’m looking to collaborate on basic python now.
 - 📫 You can reach me via my Email: behroozsharify2010@gmail.com or phone number: +93797822830, +916309962069
 
